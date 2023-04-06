@@ -1,0 +1,63 @@
+.card {
+    background: linear-gradient(to bottom right, #0c920c, #99ff99);
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 1);
+    padding: 16px;
+  }
+  
+  .cardTitle {
+    font-size: 44px;
+    margin-bottom: 16px;
+    text-align: center;
+  }
+  
+  .cardContent {
+    font-size: 16px;
+    line-height: 2;
+    text-align: center;
+    
+  }
+  .cardButton {
+    
+    display: inline-flex;
+    margin-top: 10px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-color: #f7f9f8;
+    color: rgb(2, 0, 0);
+    text-decoration: none;
+    cursor: pointer;
+    width: 80px;
+    height: 20px;
+    
+  }
+
+  .cardButton2 {
+    
+    display: inline-flex;
+    margin-top: 10px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-color: #d5d521;
+    color: rgb(2, 0, 0);
+    text-decoration: none;
+    cursor: pointer;
+    width: 80px;
+    height: 20px;
+    
+  }
+
+  .cardButton3 {
+    
+    display: inline-flex;
+    margin-top: 10px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-color: #db5c26;
+    color: rgb(2, 0, 0);
+    text-decoration: none;
+    cursor: pointer;
+    width: 80px;
+    height: 20px;
+    
+  }
